@@ -1,0 +1,6 @@
+C:\Users\Вячеслав\Documents\test\TestApp\TestApp2\bin\Debug\TestApp2.exe.config
+C:\Users\Вячеслав\Documents\test\TestApp\TestApp2\bin\Debug\TestApp2.exe
+C:\Users\Вячеслав\Documents\test\TestApp\TestApp2\bin\Debug\TestApp2.pdb
+C:\Users\Вячеслав\Documents\test\TestApp\TestApp2\obj\Debug\TestApp2.csproj.CoreCompileInputs.cache
+C:\Users\Вячеслав\Documents\test\TestApp\TestApp2\obj\Debug\TestApp2.exe
+C:\Users\Вячеслав\Documents\test\TestApp\TestApp2\obj\Debug\TestApp2.pdb
