@@ -1,0 +1,7 @@
+C:\Users\Вячеслав\Documents\BKIT_LR_1_2\Lab_work_1_2\ProgramLR2\bin\Debug\ProgramLR2.exe.config
+C:\Users\Вячеслав\Documents\BKIT_LR_1_2\Lab_work_1_2\ProgramLR2\bin\Debug\ProgramLR2.exe
+C:\Users\Вячеслав\Documents\BKIT_LR_1_2\Lab_work_1_2\ProgramLR2\bin\Debug\ProgramLR2.pdb
+C:\Users\Вячеслав\Documents\BKIT_LR_1_2\Lab_work_1_2\ProgramLR2\obj\Debug\Lab-2.csprojAssemblyReference.cache
+C:\Users\Вячеслав\Documents\BKIT_LR_1_2\Lab_work_1_2\ProgramLR2\obj\Debug\Lab-2.csproj.CoreCompileInputs.cache
+C:\Users\Вячеслав\Documents\BKIT_LR_1_2\Lab_work_1_2\ProgramLR2\obj\Debug\ProgramLR2.exe
+C:\Users\Вячеслав\Documents\BKIT_LR_1_2\Lab_work_1_2\ProgramLR2\obj\Debug\ProgramLR2.pdb
